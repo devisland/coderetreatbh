@@ -15,3 +15,5 @@ exclude:
 include:
   - _redirects
 
+
+theme: jekyll-theme-slate
